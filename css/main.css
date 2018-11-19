@@ -17,8 +17,8 @@ div {
   font-size: 1.125rem;
   text-decoration: none;
   padding: .4em .75em .3em;
+  border 8px solid #fff;
   border-radius: 8px;
-  border-width: 3px;
   background-color: #333;
   color: #fff;
 }
@@ -37,7 +37,7 @@ div {
 
 .btn-ghost {
   background-color: #fff;
-  border: solid black;
+  border-color: #000;
   color: #000;
 }
 
@@ -69,7 +69,6 @@ div {
 .btn-sm-ghost {
   font-size: .875rem;
   background-color: #fff;
-  border: solid black;
   color: #000;
 }
 
@@ -101,7 +100,7 @@ div {
 
 .btn-lg-ghost {
   font-size: 1.5rem;
-  border: solid black;
+  border-color: #000;
   color: #000;
   background-color: #fff;
 }
